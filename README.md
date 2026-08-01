@@ -20,7 +20,7 @@ learn them in.
 
 ---
 
-## 📚 Notebooks
+##  Notebooks
 
 | # | Notebook | Topic | Key techniques |
 |---|----------|-------|-----------------|
@@ -39,7 +39,7 @@ learn them in.
 
 ---
 
-## 🗂️ Repository structure
+##  Repository structure
 
 ```
 .
@@ -63,7 +63,7 @@ learn them in.
 
 ---
 
-## 🚀 Getting started
+##  Getting started
 
 ### 1. Clone the repository
 
@@ -112,7 +112,7 @@ around rather than working through them in order.
 
 ---
 
-## 🧭 How each notebook is organized
+##  How each notebook is organized
 
 Every notebook follows the same shape, so once you're used to one, you're used to
 all of them:
@@ -131,7 +131,7 @@ fixed and flagged inline rather than silently patched over.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -146,7 +146,7 @@ fixed and flagged inline rather than silently patched over.
 
 ---
 
-## 📄 License & attribution
+##  License & attribution
 
 The exercises and datasets originate from the **Introduction to Machine Learning and
 Applied Artificial Intelligence** course at the High School of Digital Culture, ITMO
