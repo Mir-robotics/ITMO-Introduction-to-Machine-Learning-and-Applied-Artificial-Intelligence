@@ -1,4 +1,4 @@
-# 🤖 Introduction to Machine Learning and Applied Artificial Intelligence
+# Introduction to Machine Learning and Applied Artificial Intelligence
 
 ![status](https://img.shields.io/badge/status-active--development-yellow)
 ![python](https://img.shields.io/badge/python-3.10%2B-blue)
