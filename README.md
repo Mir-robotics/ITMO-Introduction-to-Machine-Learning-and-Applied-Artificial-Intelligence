@@ -1,5 +1,9 @@
 # 🤖 Introduction to Machine Learning and Applied Artificial Intelligence
 
+![status](https://img.shields.io/badge/status-active--development-yellow)
+![python](https://img.shields.io/badge/python-3.10%2B-blue)
+![notebooks](https://img.shields.io/badge/notebooks-12-informational)
+
 > Coursework, exercises, and worked solutions from **Introduction to Machine Learning
 > and Applied Artificial Intelligence**, High School of Digital Culture, ITMO
 > University.
